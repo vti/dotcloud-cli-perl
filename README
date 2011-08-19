@@ -1,0 +1,12 @@
+This is an unofficial dotCloud CLI written in Perl.
+
+Supported actions for far:
+
+    setup
+    stats
+    url
+
+This aims to be a drop-in replacement for the Python version. Configuration is
+100% compatible. No need for additional setup.
+
+Why? Faster.
